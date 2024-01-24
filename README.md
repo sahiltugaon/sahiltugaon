@@ -1,9 +1,5 @@
-<div align="right">
-  <img height="250" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif"  />
-</div>
-
 <div align="center">
-  <img height="150" src="https://www.canva.com/design/DAF6z6B6rkk/G06OC7tQQPYTIlH4-GY6sw/view?utm_content=DAF6z6B6rkk&utm_campaign=designshare&utm_medium=link&utm_source=editor"  />
+  <img height="250" src="images/Green and White Technology LinkedIn Banner (1).png"  />
 </div>
 
 ###
@@ -29,7 +25,26 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+### Glad to see you here!
 
+<img align="right" alt="Gif" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" width="400" />
+
+I’m currently working on Xamarin.Forms and .NET MAUI at Microsoft. 
+
+Love interacting with the community, share knowledge and learn new things.
+
+**Talking about Personal Stuffs:**
+
+- 👨 I’m Javier Suárez (jsuarezruiz).
+- 😄 Pronouns: he/him/his.
+- 🏢 I currently work at Microsoft.
+- 💬 Ask me about anything, I am happy to help.
+- 📝 I regulary write [articles](https://javiersuarezruiz.wordpress.com).
+- 🎞️ I make fun coding [videos](https://www.youtube.com/javiersuarezruiz).
+- 🧑‍🤝‍🧑 I help with the organization of some [technical communities](https://www.meetup.com/SevillaDotNet).
+- 📫 How to reach me: javiersuarezruiz@hotmail.com.
+
+</br>
 <p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
