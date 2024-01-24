@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="images/Green and White Technology LinkedIn Banner (1).png"  />
+  <img height="210" src="images/Green and White Technology LinkedIn Banner (1).png"  />
 </div>
 
 ###
