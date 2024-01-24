@@ -113,7 +113,7 @@ Love interacting with the community, share knowledge and learn new things.
 
 <div align="left">
   <img height="180em" src="https://streak-stats.demolab.com?user=sahiltugaon&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahiltugaon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahiltugaon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
