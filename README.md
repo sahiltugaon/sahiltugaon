@@ -1,6 +1,8 @@
-<div align="center">
-  <img height="210" src="images/Green and White Technology LinkedIn Banner (1).png"  />
-</div>
+![img](images/banner2.png)
+
+
+
+
 
 ###
 
