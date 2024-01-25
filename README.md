@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sahil Tugaon <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="37px">, I'm Sahil Tugaon <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/></h1>
 
 ###
 
@@ -29,23 +29,24 @@
 
 <img align="right" alt="Gif" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" width="400" />
 
-I’m currently working on Xamarin.Forms and .NET MAUI at Microsoft. 
+I’m currently studying Post Graduate Diploma in Advance Computing in
+CDAC, Bangalore. 
 
 Love interacting with the community, share knowledge and learn new things.
 
-**Talking about Personal Stuffs:**
+**Talking About me:**
 
-- 👨 I’m Javier Suárez (jsuarezruiz).
+- 👨 I’m Sahil Tugaon (sahiltugaon).
 - 😄 Pronouns: he/him/his.
-- 🏢 I currently work at Microsoft.
+- 🏢 I currently study at CDAC Bangalore.
 - 💬 Ask me about anything, I am happy to help.
-- 📝 I regulary write [articles](https://javiersuarezruiz.wordpress.com).
-- 🎞️ I make fun coding [videos](https://www.youtube.com/javiersuarezruiz).
-- 🧑‍🤝‍🧑 I help with the organization of some [technical communities](https://www.meetup.com/SevillaDotNet).
-- 📫 How to reach me: javiersuarezruiz@hotmail.com.
+- 📚 I'm currently learning Advance Java, Springboot, Hibernate
+- 📚 Currently working on Java Projects, Web Projects
+- ⚡ In my free time I like to travel.
+- 📫 How to reach me: sahiltugaon@gmail.com
 
 </br>
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+
 
 ###
 
